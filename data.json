@@ -1,35 +1,45 @@
 {
   "rowData": [
     {
-      "make": "Porsche",
-      "model": "Boxter",
-      "price": 72000
+      "name": "Amar",
+      "email": "Amar@test.com",
+      "dateOfBirth": "16-12-98",
+      "gender": "Male",
+      "city": "Delhi",
+      "country": "India"
     },
     {
-      "make": "Ford",
-      "model": "Mondeo",
-      "price": 32000
+      "name": "Ashish",
+      "email": "Amar@test.com",
+      "dateOfBirth": "16-11-98",
+      "gender": "Female",
+      "city": "Mumbai",
+      "country": "India"
     },
     {
-      "make": "Ford",
-      "model": "Mondeo",
-      "price": 32000
+      "name": "Ankita",
+      "email": "Amar@test.com",
+      "dateOfBirth": "16-10-98",
+      "gender": "Male",
+      "city": "Kolkata",
+      "country": "India"
     },
     {
-      "make": "Toyota",
-      "model": "Celica",
-      "price": 35000
-    },
-    {
-      "make": "Toyota",
-      "model": "Celica",
-      "price": 35000
+      "name": "Amrit",
+      "email": "Amar@test.com",
+      "dateOfBirth": "16-9-98",
+      "gender": "Male",
+      "city": "Chenai",
+      "country": "India"
     }
   ],
   "columnDefs": [
-    { "headerName": "Make", "field": "make" },
-    { "headerName": "Model", "field": "model" },
-    { "headerName": "Price", "field": "price" }
+    { "headerName": "Name", "field": "name" },
+    { "headerName": "Email", "field": "email" },
+    { "headerName": "Date Of Birth", "field": "dateOfBirth" },
+    { "headerName": "Gender", "field": "gender" },
+    { "headerName": "City", "field": "city" },
+    { "headerName": "Country", "field": "country" }
   ],
   "defaultColDef": {
     "sortable": true,
