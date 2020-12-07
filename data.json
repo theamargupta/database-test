@@ -3,22 +3,34 @@
     {
       "name": "Amar",
       "email": "Amar@test.com",
-      "city": "Delhi"
+      "city": "Delhi",
+      "country": "india",
+      "gender": "male",
+      "dateOfBirth": "2020-12-08"
     },
     {
       "name": "Ashish",
       "email": "Amar@test.com",
-      "city": "Mumbai"
+      "city": "Mumbai",
+      "country": "india",
+      "gender": "male",
+      "dateOfBirth": "2020-12-08"
     },
     {
       "name": "Ankita",
       "email": "Amar@test.com",
-      "city": "Kolkata"
+      "city": "Kolkata",
+      "country": "india",
+      "gender": "male",
+      "dateOfBirth": "2020-12-08"
     },
     {
       "name": "Amrit",
       "email": "Amar@test.com",
-      "city": "Chenai"
+      "city": "Chenai",
+      "country": "india",
+      "gender": "male",
+      "dateOfBirth": "2020-12-08"
     }
   ],
   "columnDefs": [
