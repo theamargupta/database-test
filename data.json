@@ -3,22 +3,26 @@
     {
       "name": "Amar",
       "email": "Amar@test.com",
-      "city": "Delhi"
+      "city": "Delhi",
+      "checkboxSelection": true
     },
     {
       "name": "Ashish",
       "email": "Amar@test.com",
-      "city": "Mumbai"
+      "city": "Mumbai",
+      "checkboxSelection": true
     },
     {
       "name": "Ankita",
       "email": "Amar@test.com",
-      "city": "Kolkata"
+      "city": "Kolkata",
+      "checkboxSelection": true
     },
     {
       "name": "Amrit",
       "email": "Amar@test.com",
-      "city": "Chenai"
+      "city": "Chenai",
+      "checkboxSelection": true
     }
   ],
   "columnDefs": [
@@ -27,7 +31,6 @@
     { "headerName": "City", "field": "city" }
   ],
   "defaultColDef": {
-    "checkboxSelection": true,
     "sortable": true,
     "editable": true,
     "filter": true
