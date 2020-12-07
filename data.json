@@ -22,13 +22,8 @@
     }
   ],
   "columnDefs": [
-    { "headerName": "Name", "field": "name" },
+    { "headerName": "Name", "field": "name", "checkboxSelection": true },
     { "headerName": "Email", "field": "email" },
     { "headerName": "City", "field": "city" }
-  ],
-  "defaultColDef": {
-    "sortable": true,
-    "editable": true,
-    "filter": true
-  }
+  ]
 }
