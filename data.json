@@ -28,7 +28,10 @@
   "columnDefs": [
     { "headerName": "Name", "field": "name" },
     { "headerName": "Email", "field": "email" },
-    { "headerName": "City", "field": "city" }
+    { "headerName": "City", "field": "city" },
+    { "headerName": "Date of Birth", "field": "dateOfBirth" },
+    { "headerName": "Country", "field": "country" },
+    { "headerName": "Gender", "field": "gender" }
   ],
   "defaultColDef": {
     "sortable": true,
