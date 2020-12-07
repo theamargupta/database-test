@@ -3,35 +3,28 @@
     {
       "name": "Amar",
       "email": "Amar@test.com",
-      "city": "Delhi",
-      "checkboxSelection": true
+      "city": "Delhi"
     },
     {
       "name": "Ashish",
       "email": "Amar@test.com",
-      "city": "Mumbai",
-      "checkboxSelection": true
+      "city": "Mumbai"
     },
     {
       "name": "Ankita",
       "email": "Amar@test.com",
-      "city": "Kolkata",
-      "checkboxSelection": true
+      "city": "Kolkata"
     },
     {
       "name": "Amrit",
       "email": "Amar@test.com",
-      "city": "Chenai",
-      "checkboxSelection": true
+      "city": "Chenai"
     }
   ],
   "columnDefs": [
     { "headerName": "Name", "field": "name" },
     { "headerName": "Email", "field": "email" },
-    { "headerName": "City", "field": "city" },
-    { "headerName": "Date of Birth", "field": "dateOfBirth" },
-    { "headerName": "Country", "field": "country" },
-    { "headerName": "Gender", "field": "gender" }
+    { "headerName": "City", "field": "city" }
   ],
   "defaultColDef": {
     "sortable": true,
