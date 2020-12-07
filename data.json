@@ -37,9 +37,7 @@
     { "headerName": "Name", "field": "name" },
     { "headerName": "Email", "field": "email" },
     { "headerName": "Date Of Birth", "field": "dateOfBirth" },
-    { "headerName": "Gender", "field": "gender" },
-    { "headerName": "City", "field": "city" },
-    { "headerName": "Country", "field": "country" }
+    { "headerName": "City", "field": "city" }
   ],
   "defaultColDef": {
     "sortable": true,
