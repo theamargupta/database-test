@@ -27,6 +27,7 @@
     { "headerName": "City", "field": "city" }
   ],
   "defaultColDef": {
+    "checkboxSelection": true,
     "sortable": true,
     "editable": true,
     "filter": true
