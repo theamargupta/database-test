@@ -3,40 +3,27 @@
     {
       "name": "Amar",
       "email": "Amar@test.com",
-      "dateOfBirth": "16-12-98",
-      "gender": "Male",
-      "city": "Delhi",
-      "country": "India"
+      "city": "Delhi"
     },
     {
       "name": "Ashish",
       "email": "Amar@test.com",
-      "dateOfBirth": "16-11-98",
-      "gender": "Female",
-      "city": "Mumbai",
-      "country": "India"
+      "city": "Mumbai"
     },
     {
       "name": "Ankita",
       "email": "Amar@test.com",
-      "dateOfBirth": "16-10-98",
-      "gender": "Male",
-      "city": "Kolkata",
-      "country": "India"
+      "city": "Kolkata"
     },
     {
       "name": "Amrit",
       "email": "Amar@test.com",
-      "dateOfBirth": "16-9-98",
-      "gender": "Male",
-      "city": "Chenai",
-      "country": "India"
+      "city": "Chenai"
     }
   ],
   "columnDefs": [
     { "headerName": "Name", "field": "name" },
     { "headerName": "Email", "field": "email" },
-    { "headerName": "Date Of Birth", "field": "dateOfBirth" },
     { "headerName": "City", "field": "city" }
   ],
   "defaultColDef": {
