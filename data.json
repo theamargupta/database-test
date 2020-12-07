@@ -14,15 +14,15 @@
       "city": "Mumbai",
       "country": "india",
       "gender": "male",
-      "dateOfBirth": "2020-12-08"
+      "dateOfBirth": "2020-12-09"
     },
     {
       "name": "Ankita",
       "email": "Amar@test.com",
       "city": "Kolkata",
       "country": "india",
-      "gender": "male",
-      "dateOfBirth": "2020-12-08"
+      "gender": "female",
+      "dateOfBirth": "2020-12-10"
     },
     {
       "name": "Amrit",
@@ -30,7 +30,7 @@
       "city": "Chenai",
       "country": "india",
       "gender": "male",
-      "dateOfBirth": "2020-12-08"
+      "dateOfBirth": "2020-12-11"
     }
   ],
   "columnDefs": [
